@@ -15,7 +15,7 @@ Wake up you're AFK friends mentioning them in chat!
 
 • Customizable sounds, messages
 
-https://i.imgur.com/07R3Mcp.jpg
+![alt text]https://i.imgur.com/07R3Mcp.jpg
 
 
 # Requirements:
@@ -40,9 +40,9 @@ ActionBarAPI plugin
 
 
 # Mentions Permissions:
-• User Mentions [chatmentions.mention.user] - https://imgur.com/YYvGWOw.jpg
+• User Mentions [chatmentions.mention.user] - ![alt text]https://imgur.com/YYvGWOw.jpg
  
-• Everyone Mentions [chatmentions.mention.everyone] - https://imgur.com/6nl9aRX.jpg
+• Everyone Mentions [chatmentions.mention.everyone] - ![alt text]https://imgur.com/6nl9aRX.jpg
 
-• Group Mentions [chatmentions.mention.group.<groupName>] - https://imgur.com/zjzPDqu.jpg
+• Group Mentions [chatmentions.mention.group.<groupName>] - ![alt text]https://imgur.com/zjzPDqu.jpg
 
