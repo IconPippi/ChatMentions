@@ -15,7 +15,7 @@ Wake up you're AFK friends mentioning them in chat!
 
 • Customizable sounds, messages
 
-![alt text]https://i.imgur.com/07R3Mcp.jpg
+![Alt text](https://i.imgur.com/07R3Mcp.jpg?raw=true "Title")
 
 
 # Requirements:
