@@ -40,9 +40,9 @@ ActionBarAPI plugin
 
 
 # Mentions Permissions:
-• User Mentions [chatmentions.mention.user] - ![alt text]https://imgur.com/YYvGWOw.jpg
+• User Mentions [chatmentions.mention.user] - ![Alt text](https://imgur.com/YYvGWOw.jpg?raw=true "Title")
  
-• Everyone Mentions [chatmentions.mention.everyone] - ![alt text]https://imgur.com/6nl9aRX.jpg
+• Everyone Mentions [chatmentions.mention.everyone] - ![Alt text](https://imgur.com/6nl9aRX.jpg?raw=true "Title")
 
-• Group Mentions [chatmentions.mention.group.<groupName>] - ![alt text]https://imgur.com/zjzPDqu.jpg
+• Group Mentions [chatmentions.mention.group.<groupName>] - ![Alt text](https://imgur.com/zjzPDqu.jpg?raw=true "Title")
 
