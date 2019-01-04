@@ -1,0 +1,34 @@
+# ChatMentions alpha_0.3.2 #
+# Author IconPippi #
+# NOTE: The following configuration maps will change in-game messages or variables values, you can also edit them using in-game commands #
+
+# Enable mentions map.
+allMentions: 'true'
+groupsMentions: 'true'
+everyoneMentions: 'true'
+playersMentions: 'true'
+
+# Notification methods
+sound: 'true'
+actionBarMessage: 'false'
+
+# Prefix configuration map.
+chatPrefix: '&5ChatMentions>>&6'
+
+# Player mention configuration maps.
+playerMention:
+  color: '&b'
+  sound: 'ORB_PICKUP'
+  actionBarMessage: '&b%player% just mentioned you in chat.'
+
+# Everyone mention configuration maps.
+everyoneMention:
+  color: '&a'
+  sound: 'ORB_PICKUP'
+  actionBarMessage: '&a%player% just mentioned everyone in chat.'
+
+# Group mention configuration maps.
+groupMention:
+  color: '&c'
+  sound: 'ORB_PICKUP'
+  actionBarMessage: '&c%player% just mentioned %group% group in chat.'

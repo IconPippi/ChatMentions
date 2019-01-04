@@ -1,0 +1,12 @@
+name: ChatMentions
+version: 1.0.2
+author: IconPippi
+main: me.IconPippi.chatmentions.Main
+description: A Bukkit plugin that allows to mention players and groups in-game.
+
+commands:
+  chatmentions:
+    description: The main command for ChatMentions plugin.
+    usage: /<command> [subcommand]
+    aliases: [cm,chatm,cmentions]
+          
